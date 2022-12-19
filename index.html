@@ -39,9 +39,9 @@
           .then(data => {
             addToTable(data.data)
         })
+        function addToTable(data) {
         var rank=0;
         var lastPoints = -1;
-        function addToTable(data) {
           data.forEach(contributor => {
             name=contributor.username;
             points= contributor.totalPoints;
