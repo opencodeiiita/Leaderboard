@@ -26,16 +26,18 @@
       </table>
 
     <script>
-        async function getData(){
-            let res = await fetch('https://opencode-leaderboard-homewardgamer.koyeb.app/get-all-data/?page=1');
-            let data = await res.json();
-            return data.data;
+        async function displayData(){
+            fetch("./dummyData.json")
+            .then(response => {
+                return response.json();
+            })
+            .then(data => addToTable(data));
         }
 
-        getData()
-          .then(data => {
-            addToTable(data.data)
-        })
+//         getData()
+//           .then(data => {
+//             addToTable(data.data)
+//         })
 
         function addToTable(data) {
           data.forEach(contributor => {
