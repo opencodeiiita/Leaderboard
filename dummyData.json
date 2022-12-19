@@ -1,0 +1,695 @@
+{
+  "start": 1,
+  "end": 20,
+  "page_number": 1,
+  "has_next": true,
+  "has_prv": false,
+  "data": [
+    {
+      "username": "sushantk1274",
+      "name": "sushant kumar",
+      "college": "IIIT ALLAHABAD",
+      "rollNumber": "IIT2021147",
+      "image": "https://github.com/sushantk1274.png",
+      "pointPerPR": [
+        {
+          "repoName": "Cyber-War",
+          "PRID": 35,
+          "issueID": 3,
+          "points": 10
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 34,
+          "issueID": 2,
+          "points": 15
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 36,
+          "issueID": 4,
+          "points": 10
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 38,
+          "issueID": 6,
+          "points": 20
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 37,
+          "issueID": 5,
+          "points": 10
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 42,
+          "issueID": 7,
+          "points": 50
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 44,
+          "issueID": 8,
+          "points": 20
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 45,
+          "issueID": 9,
+          "points": 30
+        },
+        {
+          "repoName": "GoGit-2.0",
+          "PRID": 17,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "GoGit-2.0",
+          "PRID": 18,
+          "issueID": 2,
+          "points": 10
+        }
+      ],
+      "totalPoints": 185
+    },
+    {
+      "username": "jaydeepxx",
+      "name": "Jaydeep",
+      "college": "IIIT-A",
+      "rollNumber": "IIB2021023",
+      "image": "https://github.com/jaydeepxx.png",
+      "pointPerPR": [
+        {
+          "repoName": "Cyber-War",
+          "PRID": 10,
+          "issueID": 1,
+          "points": 30
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 17,
+          "issueID": 4,
+          "points": 10
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 23,
+          "issueID": 7,
+          "points": 50
+        },
+        {
+          "repoName": "Code-Digger",
+          "PRID": 9,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 32,
+          "issueID": 6,
+          "points": 20
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 41,
+          "issueID": 9,
+          "points": 30
+        }
+      ],
+      "totalPoints": 150
+    },
+    {
+      "username": "SanyamAgrawal07",
+      "name": "Sanyam Agrawal",
+      "college": "IIIT Allahabad",
+      "rollNumber": "IIT2021207",
+      "image": "https://github.com/SanyamAgrawal07.png",
+      "pointPerPR": [
+        {
+          "repoName": "Cyber-War",
+          "PRID": 18,
+          "issueID": 4,
+          "points": 10
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 19,
+          "issueID": 3,
+          "points": 10
+        },
+        {
+          "repoName": "SaveMyForm-Backend",
+          "PRID": 16,
+          "issueID": 6,
+          "points": 10
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 30,
+          "issueID": 6,
+          "points": 20
+        },
+        {
+          "repoName": "Lets-Design-3.0",
+          "PRID": 6,
+          "issueID": 2,
+          "points": 10
+        },
+        {
+          "repoName": "Learning-Smart-Contracts",
+          "PRID": 10,
+          "issueID": 5,
+          "points": 30
+        },
+        {
+          "repoName": "Code-Digger",
+          "PRID": 39,
+          "issueID": 19,
+          "points": 30
+        }
+      ],
+      "totalPoints": 120
+    },
+    {
+      "username": "vedant-z",
+      "name": "Vedant Borkar ",
+      "college": "Indian Institute Of Information Technology Allahabad ",
+      "rollNumber": "IEC2021079",
+      "image": "https://github.com/vedant-z.png",
+      "pointPerPR": [
+        {
+          "repoName": "SaveMyForm-Backend",
+          "PRID": 11,
+          "issueID": 7,
+          "points": 10
+        },
+        {
+          "repoName": "Code-Digger",
+          "PRID": 15,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "Code-Digger",
+          "PRID": 14,
+          "issueID": 3,
+          "points": 40
+        },
+        {
+          "repoName": "DonateASmile",
+          "PRID": 11,
+          "issueID": 4,
+          "points": 10
+        },
+        {
+          "repoName": "Lets-Design-3.0",
+          "PRID": 15,
+          "issueID": 2,
+          "points": 10
+        },
+        {
+          "repoName": "OC-discord-bot",
+          "PRID": 12,
+          "issueID": 5,
+          "points": 10
+        }
+      ],
+      "totalPoints": 90
+    },
+    {
+      "username": "PiyushGG18",
+      "name": "Piyush Gawade",
+      "college": "IIITA",
+      "rollNumber": "IIB2021041",
+      "image": "https://github.com/PiyushGG18.png",
+      "pointPerPR": [
+        {
+          "repoName": "Cyber-War",
+          "PRID": 20,
+          "issueID": 1,
+          "points": 30
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 22,
+          "issueID": 2,
+          "points": 15
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 26,
+          "issueID": 3,
+          "points": 10
+        },
+        {
+          "repoName": "Code-Digger",
+          "PRID": 12,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 29,
+          "issueID": 5,
+          "points": 10
+        },
+        {
+          "repoName": "Leaderboard",
+          "PRID": 3,
+          "issueID": 1,
+          "points": 10
+        }
+      ],
+      "totalPoints": 85
+    },
+    {
+      "username": "ananyaa07",
+      "name": "Ananya",
+      "college": "Indian Institute of Information Technology, Allahabad",
+      "rollNumber": "IIT2021061",
+      "image": "https://github.com/ananyaa07.png",
+      "pointPerPR": [
+        {
+          "repoName": "GoGit-2.0",
+          "PRID": 8,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "WorkWise",
+          "PRID": 7,
+          "issueID": 5,
+          "points": 10
+        },
+        {
+          "repoName": "Code-Digger",
+          "PRID": 20,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "Lets-Design-3.0",
+          "PRID": 9,
+          "issueID": 2,
+          "points": 10
+        },
+        {
+          "repoName": "DonateASmile",
+          "PRID": 9,
+          "issueID": 4,
+          "points": 10
+        },
+        {
+          "repoName": "HandsForHunger",
+          "PRID": 13,
+          "issueID": 8,
+          "points": 10
+        },
+        {
+          "repoName": "HandsForHunger",
+          "PRID": 18,
+          "issueID": 9,
+          "points": 20
+        }
+      ],
+      "totalPoints": 80
+    },
+    {
+      "username": "anshgeez31",
+      "name": "Ansh Kothari",
+      "college": "IIIT Allahabad",
+      "rollNumber": "IEC2021006",
+      "image": "https://github.com/anshgeez31.png",
+      "pointPerPR": [
+        {
+          "repoName": "Code-Digger",
+          "PRID": 7,
+          "issueID": 2,
+          "points": 20
+        },
+        {
+          "repoName": "SuperQuizzer",
+          "PRID": 11,
+          "issueID": 7,
+          "points": 20
+        },
+        {
+          "repoName": "Code-Digger",
+          "PRID": 33,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "DonateASmile",
+          "PRID": 13,
+          "issueID": 4,
+          "points": 10
+        },
+        {
+          "repoName": "CampusOLX",
+          "PRID": 4,
+          "issueID": 1,
+          "points": 10
+        }
+      ],
+      "totalPoints": 70
+    },
+    {
+      "username": "Koshal7",
+      "name": "Koshal",
+      "college": "IIITA",
+      "rollNumber": "IIB2021003",
+      "image": "https://github.com/Koshal7.png",
+      "pointPerPR": [
+        {
+          "repoName": "Cyber-War",
+          "PRID": 43,
+          "issueID": 9,
+          "points": 30
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 46,
+          "issueID": 2,
+          "points": 15
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 47,
+          "issueID": 3,
+          "points": 10
+        },
+        {
+          "repoName": "Cyber-War",
+          "PRID": 48,
+          "issueID": 4,
+          "points": 10
+        }
+      ],
+      "totalPoints": 65
+    },
+    {
+      "username": "Vishesh-Vijay",
+      "name": "Vishesh Vijayvargiya",
+      "college": "IIIT Allahabad",
+      "rollNumber": "IIT2021114",
+      "image": "https://github.com/Vishesh-Vijay.png",
+      "pointPerPR": [
+        {
+          "repoName": "GoGit-2.0",
+          "PRID": 9,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "Lets-Design-3.0",
+          "PRID": 3,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "Code-Digger",
+          "PRID": 29,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "DonateASmile",
+          "PRID": 6,
+          "issueID": 4,
+          "points": 10
+        },
+        {
+          "repoName": "DonateASmile",
+          "PRID": 7,
+          "issueID": 2,
+          "points": 10
+        }
+      ],
+      "totalPoints": 50
+    },
+    {
+      "username": "aasthaaaa7",
+      "name": "Aastha",
+      "college": "IIIT Allahabad",
+      "rollNumber": "IEC2021011",
+      "image": "https://github.com/aasthaaaa7.png",
+      "pointPerPR": [
+        {
+          "repoName": "Code-Digger",
+          "PRID": 27,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "Lets-Design-3.0",
+          "PRID": 13,
+          "issueID": 11,
+          "points": 20
+        },
+        {
+          "repoName": "Lets-Design-3.0",
+          "PRID": 14,
+          "issueID": 2,
+          "points": 10
+        },
+        {
+          "repoName": "DonateASmile",
+          "PRID": 8,
+          "issueID": 2,
+          "points": 10
+        }
+      ],
+      "totalPoints": 50
+    },
+    {
+      "username": "VBajaj113",
+      "name": "Vaibhav Bajaj",
+      "college": "Indian Institute of Technology Delhi (IITD)",
+      "rollNumber": "",
+      "image": "https://github.com/VBajaj113.png",
+      "pointPerPR": [
+        {
+          "repoName": "Cyber-War",
+          "PRID": 16,
+          "issueID": 2,
+          "points": 15
+        },
+        {
+          "repoName": "Forum-Backend",
+          "PRID": 5,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "OC-discord-bot",
+          "PRID": 9,
+          "issueID": 5,
+          "points": 10
+        },
+        {
+          "repoName": "Code-Digger",
+          "PRID": 26,
+          "issueID": 1,
+          "points": 10
+        }
+      ],
+      "totalPoints": 45
+    },
+    {
+      "username": "RayLikesAnime",
+      "name": "Keshav Pandey",
+      "college": "IIITA",
+      "rollNumber": "IIT2021173",
+      "image": "https://github.com/RayLikesAnime.png",
+      "pointPerPR": [
+        {
+          "repoName": "Code-Digger",
+          "PRID": 25,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "Lets-Design-3.0",
+          "PRID": 8,
+          "issueID": 2,
+          "points": 10
+        },
+        {
+          "repoName": "DonateASmile",
+          "PRID": 10,
+          "issueID": 2,
+          "points": 10
+        }
+      ],
+      "totalPoints": 30
+    },
+    {
+      "username": "Finesse-734",
+      "name": "Nikunj Gupta",
+      "college": "IIIT Allahabad",
+      "rollNumber": "IIT2021166",
+      "image": "https://github.com/Finesse-734.png",
+      "pointPerPR": [
+        {
+          "repoName": "Code-Digger",
+          "PRID": 24,
+          "issueID": 1,
+          "points": 10
+        },
+        {
+          "repoName": "SolMintNFT",
+          "PRID": 8,
+          "issueID": 5,
+          "points": 20
+        }
+      ],
+      "totalPoints": 30
+    },
+    {
+      "username": "Shubhankit-Pandey",
+      "name": "Shubhankit Pandey",
+      "college": "Indian Institute of Information Technology Allahabad",
+      "rollNumber": "IEC2021027",
+      "image": "https://github.com/Shubhankit-Pandey.png",
+      "pointPerPR": [
+        {
+          "repoName": "SaveMyForm-Backend",
+          "PRID": 15,
+          "issueID": 9,
+          "points": 10
+        },
+        {
+          "repoName": "SaveMyForm-Frontend",
+          "PRID": 22,
+          "issueID": 9,
+          "points": 20
+        }
+      ],
+      "totalPoints": 30
+    },
+    {
+      "username": "IEC2021103Abhinav",
+      "name": "Abhinav Anand",
+      "college": "IIITA",
+      "rollNumber": "iec2021103",
+      "image": "https://github.com/IEC2021103Abhinav.png",
+      "pointPerPR": [
+        {
+          "repoName": "SuperQuizzer",
+          "PRID": 8,
+          "issueID": 6,
+          "points": 30
+        }
+      ],
+      "totalPoints": 30
+    },
+    {
+      "username": "Ayashika",
+      "name": "Ayashika Gupta",
+      "college": "Indian Institute of Information Technology, Allahabad",
+      "rollNumber": "IIT2021073",
+      "image": "https://github.com/Ayashika.png",
+      "pointPerPR": [
+        {
+          "repoName": "Learning-Smart-Contracts",
+          "PRID": 14,
+          "issueID": 6,
+          "points": 20
+        },
+        {
+          "repoName": "Learning-Smart-Contracts",
+          "PRID": 15,
+          "issueID": 4,
+          "points": 10
+        }
+      ],
+      "totalPoints": 30
+    },
+    {
+      "username": "pragya1976",
+      "name": "Pragya Pal",
+      "college": "IIITA",
+      "rollNumber": "IEC2021008",
+      "image": "https://github.com/pragya1976.png",
+      "pointPerPR": [
+        {
+          "repoName": "Fitezo",
+          "PRID": 8,
+          "issueID": 5,
+          "points": 10
+        },
+        {
+          "repoName": "Lets-Design-3.0",
+          "PRID": 7,
+          "issueID": 2,
+          "points": 10
+        },
+        {
+          "repoName": "HandsForHunger",
+          "PRID": 11,
+          "issueID": 7,
+          "points": 10
+        }
+      ],
+      "totalPoints": 30
+    },
+    {
+      "username": "Kali-Decoder",
+      "name": "Neeraj Choubisa",
+      "college": "IIIT Dharwad Hubballi",
+      "rollNumber": "",
+      "image": "https://github.com/Kali-Decoder.png",
+      "pointPerPR": [
+        {
+          "repoName": "Learning-Smart-Contracts",
+          "PRID": 13,
+          "issueID": 4,
+          "points": 10
+        },
+        {
+          "repoName": "Forum-Frontend-Web",
+          "PRID": 13,
+          "issueID": 8,
+          "points": 20
+        }
+      ],
+      "totalPoints": 30
+    },
+    {
+      "username": "KBVijayVarma",
+      "name": "Vijay Varma Kanumuri",
+      "college": "Indian Institute of Technology Hyderabad",
+      "rollNumber": "AI20BTECH11012",
+      "image": "https://github.com/KBVijayVarma.png",
+      "pointPerPR": [
+        {
+          "repoName": "EmotionAnalysis",
+          "PRID": 3,
+          "issueID": 1,
+          "points": 20
+        }
+      ],
+      "totalPoints": 20
+    },
+    {
+      "username": "anjalii14",
+      "name": "Anjali Singh",
+      "college": "Indian Institute of Information Technology, Allahabad",
+      "rollNumber": "IIT2021031",
+      "image": "https://github.com/anjalii14.png",
+      "pointPerPR": [
+        {
+          "repoName": "Fitezo",
+          "PRID": 9,
+          "issueID": 6,
+          "points": 20
+        }
+      ],
+      "totalPoints": 20
+    }
+  ]
+}
