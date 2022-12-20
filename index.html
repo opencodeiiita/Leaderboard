@@ -15,7 +15,10 @@
     <table id="pointsTable">
         <thead>
           <tr>
+            <th>Rank</th>
             <th>Username</th>
+            <th>Name</th>
+            <th>College</th>
             <th>Points</th>
            
           </tr>
@@ -36,12 +39,19 @@
           .then(data => {
             addToTable(data.data)
         })
-
         function addToTable(data) {
+        var rank=0;
+        var lastPoints = -1;
           data.forEach(contributor => {
             name=contributor.username;
             points= contributor.totalPoints;
-            var markup = "<tr><td>"+ name + "</td><td> " + "&nbsp;" + points + "</td></tr>";
+            fullname= contributor.name;
+            college= contributor.college;
+            if(points!=lastPoints){
+              rank++;
+              lastPoints= points;
+            }
+            var markup = "<tr><td>"+ rank + "</td><td> " + "&nbsp;" + name + "</td><td> " + "&nbsp;" + fullname + "</td><td> " + "&nbsp;" + college + "</td><td> " + "&nbsp;" + points + "</td></tr>";
             $("table tbody").append(markup);
           });
         }
