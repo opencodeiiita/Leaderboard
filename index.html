@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body class="backgroundcolor">
- 
     <!-- Adding both the images  -->
     <img align="left" src="https://s3-alpha-sig.figma.com/img/15df/1a48/0c9c722d2bc9918e40daf6eca7286224?Expires=1673222400&Signature=MStGJ60pVDTTzRwYcPAICh5DKYSygkMKJzutb9oiy1sQOcwKve5vX5nqIE1hqJlhoZZ~~04cLkp4M2xePhG6EK~VCWKA7UuEvZSxMnGu8oiI05yNpBcgW2sjOYht8D1MGlcVRN~lxkvQnGvOVsONVI7EJeOA3bWGYUJuMfzgEt8b9GeVa7e6t6MtYLBxXQSARILJ8DlTJj5EnI5aH8N0ZTuCnjzaqqNZD7aQKV1EbAjdbGnTXfshoG5pQq1~cN1iarMYjX~du7v4FK9givB1Rfl1dNCDoI4QXyjZbwBJZhyS5ggGgwuIDhixTvBcqRskMfhH9dRcHZ~AUwpQzSB~zw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" alt="Nature" class="responsiveimage">
 
@@ -20,6 +19,7 @@
     <p class="heading1" style="font-size:3vw;">  OPENCODE'22</p>
     <p class="heading2" style="font-size:4.5vw;">  Leaderboard</p>
     <p class="headingsub" style="font-size:1.5vw;">  Organised by Geekhaven</p>
+    <div class="loading"></div>
 
 <!-- Adding bubbles in background  -->
     <div class="ellipse1"></div>
@@ -47,16 +47,6 @@
       </table>
 
     <script>
-        async function getData(){
-            let res = await fetch('https://opencode-leaderboard-homewardgamer.koyeb.app/get-all-data/?page=1');
-            let data = await res.json();
-            return data.data;
-        }
-
-        getData()
-          .then(data => {
-            addToTable(data.data)
-        })
         function addToTable(data) {
         var rank=0;
         var lastPoints = -1;
@@ -73,6 +63,16 @@
             $("table tbody").append(markup);
           });
         }
+        async function getData(){
+            const res = await fetch('https://opencode-leaderboard-homewardgamer.koyeb.app/get-all-data/?page=1')
+            .then(res=>res.json())
+            .then(data =>{
+              console.log(data)
+              document.querySelector(".loading").style.display = "none" //stop the load
+              addToTable(data.data)
+            });
+          }
+        getData();
     </script>
 
 </body>
