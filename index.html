@@ -69,13 +69,8 @@
             .then(data =>{
               console.log(data)
               document.querySelector(".loading").style.display = "none" //stop the load
-            }
-            )
-            .then(data => {
               addToTable(data.data)
-            }
-
-            );
+            });
           }
         getData();
     </script>
