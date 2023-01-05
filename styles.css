@@ -4,10 +4,13 @@ h1{
    align-items: center;
 }
 
-table{
+.table-container{
    display: flex;
+   flex-direction: column;
    justify-content: center;
    align-items: center;
+   color: #ecd9fc;
+   margin-top: 2rem;
 }
 
 .heading1{
